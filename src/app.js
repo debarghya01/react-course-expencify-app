@@ -18,29 +18,29 @@ const store = configureStore();
 // })
 
 
-store.dispatch(addExpense(
-        {
-            description: 'Water Bill', 
-            amount: 4500
-        }
-    )
-)
+// store.dispatch(addExpense(
+//         {
+//             description: 'Water Bill', 
+//             amount: 4500
+//         }
+//     )
+// )
 
-store.dispatch(addExpense(
-    {
-        description: 'Rent', 
-        amount: 132800
-    }
-)
-)
+// store.dispatch(addExpense(
+//     {
+//         description: 'Rent', 
+//         amount: 132800
+//     }
+// )
+// )
 
-store.dispatch(addExpense(
-        {
-            description: 'Gas Bill', 
-            createdAt: 1000
-        }
-    )
-)
+// store.dispatch(addExpense(
+//         {
+//             description: 'Gas Bill', 
+//             createdAt: 1000
+//         }
+//     )
+// )
 
 // store.dispatch(setTextFilter('water'));
 
@@ -48,7 +48,7 @@ store.dispatch(addExpense(
 //     store.dispatch(setTextFilter('bill'))
 // ),3000)
 
-const state = store.getState()
+// const state = store.getState()
 // console.log(getVisibleExpenses(state.expenses, state.filters));
 
 const jsx = (
