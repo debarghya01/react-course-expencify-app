@@ -11,7 +11,7 @@ import getVisibleExpenses from './selectors/expenses';
 import {Provider} from 'react-redux';
 import 'react-dates/lib/css/_datepicker.css';
 
-
+console.log('test1')
 const store = configureStore();
 // store.subscribe(() => {
 //     console.log(store.getState())    
