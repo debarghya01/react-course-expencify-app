@@ -11,3 +11,5 @@ eval $(ssh-agent -s) --> to check if SSH agent is running or not
  git remote --> to check if it worked or not
  git remote -v --> push & fecth
 git push -u origin main --> to push to github *****always check Github doc
+
+...
