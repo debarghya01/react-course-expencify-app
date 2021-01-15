@@ -11,9 +11,9 @@ exports[`Testing ExpenseListItem 1`] = `
     </p>
      
   </Link>
-   
   <p>
-    2300 0
+    $2,300.00 
+                31st December 1969
      
   </p>
 </div>

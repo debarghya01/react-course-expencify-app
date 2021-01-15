@@ -128,7 +128,7 @@ exports[`testing expense from with bad data 1`] = `
 exports[`testing expense from with bad data 2`] = `
 <div>
   <p>
-    Please add description & amount
+    please add description & amount
   </p>
   <form
     onSubmit={[Function]}
