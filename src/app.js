@@ -10,6 +10,7 @@ import {setTextFilter} from './actions/filetrs';
 import getVisibleExpenses from './selectors/expenses';
 import {Provider} from 'react-redux';
 import 'react-dates/lib/css/_datepicker.css';
+// import './firebase/firebase';
 
 console.log('test1')
 const store = configureStore();
